@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.pyc
+aliyun-opensearch-python-sdk.iml
+aliyun-opensearch-python-sdk.ipr
+aliyun-opensearch-python-sdk.iws
+.idea/

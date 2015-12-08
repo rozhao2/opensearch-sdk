@@ -1,0 +1,1 @@
+/Users/barycenter/python_env/common/lib/python2.7/site-packages/aliyun_opensearch_sdk-1.0.0-py2.7.egg
